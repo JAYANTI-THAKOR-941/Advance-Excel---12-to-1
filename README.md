@@ -23,3 +23,11 @@ New original supplemental content for practical training and self-study. Existin
 - [sales.csv](learning/sales.csv)
 - [formulas.md](learning/formulas.md)
 - [dashboard.md](learning/dashboard.md)
+
+## Expanded practice academy
+
+- [README.md](academy/README.md)
+- [sales.csv](academy/sales.csv)
+- [products.csv](academy/products.csv)
+- [FORMULAS.md](academy/FORMULAS.md)
+- [ASSIGNMENTS.md](academy/ASSIGNMENTS.md)

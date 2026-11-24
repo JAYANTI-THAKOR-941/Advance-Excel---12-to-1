@@ -1,0 +1,11 @@
+OrderID,Date,Region,Product,Units,UnitPrice,Discount
+S001,2026-01-05,West,Laptop,2,45000,0.05
+S002,2026-01-07,North,Monitor,4,12000,0
+S003,2026-01-12,South,Keyboard,10,1500,0.1
+S004,2026-02-03,East,Laptop,1,45000,0
+S005,2026-02-09,West,Monitor,3,12000,0.05
+S006,2026-02-15,North,Keyboard,8,1500,0
+S007,2026-03-01,South,Laptop,2,45000,0.1
+S008,2026-03-06,East,Monitor,5,12000,0.05
+S009,2026-03-11,West,Keyboard,12,1500,0
+S010,2026-03-20,North,Laptop,1,45000,0.05
