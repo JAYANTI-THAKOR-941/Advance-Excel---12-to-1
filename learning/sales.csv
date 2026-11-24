@@ -1,0 +1,11 @@
+Date,Region,Product,Units,UnitPrice,UnitCost
+2026-01-05,West,Laptop,3,45000,38000
+2026-01-07,North,Monitor,8,12000,9000
+2026-01-12,South,Keyboard,15,1500,1000
+2026-02-02,East,Monitor,5,12000,9000
+2026-02-10,West,Keyboard,20,1500,1000
+2026-02-15,North,Laptop,2,45000,38000
+2026-03-03,South,Monitor,6,12000,9000
+2026-03-08,East,Laptop,4,45000,38000
+2026-03-12,West,Monitor,7,12000,9000
+2026-03-15,North,Keyboard,12,1500,1000

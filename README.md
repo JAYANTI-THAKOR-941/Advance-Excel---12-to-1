@@ -14,3 +14,12 @@ cd Advance-Excel---12-to-1
 ```
 
 Download the documents and practice the examples in Microsoft Excel. The Word document provides an editable reference.
+
+## Additional learning resources
+
+New original supplemental content for practical training and self-study. Existing materials are preserved.
+
+- [README.md](learning/README.md)
+- [sales.csv](learning/sales.csv)
+- [formulas.md](learning/formulas.md)
+- [dashboard.md](learning/dashboard.md)
